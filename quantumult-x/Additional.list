@@ -1,0 +1,8 @@
+# (For additional rule)
+
+DOMAIN-SUFFIX, theinitium.com, PROXY #端传媒
+DOMAIN-SUFFIX, initium.news, PROXY #端传媒
+DOMAIN, ieeexplore.ieee.org, DIRECT
+DOMAIN, bt.byr.cn, IPV6
+DOMAIN-SUFFIX, airtable.com, PROXY
+DOMAIN-SUFFIX, tettra.co, PROXY
